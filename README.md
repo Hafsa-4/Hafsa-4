@@ -1,5 +1,5 @@
 # Hi, I'm Hafsa 👩‍💻
-Aspiring DevOps Engineer and AWS Cloud Enthusiast passionate about building secure, scalable, and automated cloud environments.
+DevOps Engineer and AWS Cloud Enthusiast passionate about building secure, scalable, and automated cloud environments.
 
 I am trained from Full Stack Academy in AWS and DevOps, where I have gained hands-on experience in deploying, automating, and managing infrastructure using AWS services such as EC2, S3, Lambda, CloudFormation, and VPC. My journey is driven by curiosity, persistence, and a love for solving real-world problems through automation and cloud-native solutions. I enjoy working with Linux, scripting, and DevOps tools to streamline operations and improve efficiency.
 
